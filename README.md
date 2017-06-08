@@ -1,3 +1,4 @@
-# My Awesome Book
+# 概述 for TINA Reconfiguration
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+TINA Front end product and system reconfiguration
+
