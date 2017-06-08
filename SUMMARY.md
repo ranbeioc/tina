@@ -12,7 +12,7 @@
   * [3，客服组](chapter1/3ff0c-ke-hu-zu.md)
   * [4，审核组](chapter1/4ff0c-shen-he-zu.md)
   * [5，运营组](chapter1/5ff0c-yun-ying-zu.md)
-* [二，项目分解](er-ff0c-xiang-mu-fen-jie.md)
+* [二，需求分解](er-ff0c-xiang-mu-fen-jie.md)
   * [1，要点分析](er-ff0c-xiang-mu-fen-jie/1ff0c-fang-tan-fen-xi.md)
 * [三，系统拆分](san-ff0c-xi-tong-hua-fen.md)
   * [1，系统架构](san-ff0c-xi-tong-hua-fen/de.md)
