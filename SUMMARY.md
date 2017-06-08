@@ -41,7 +41,7 @@
   * [5，运营系统概要](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong.md)
 * [五，客户端定义](wu-ff0c-ke-hu-duan-ding-yi.md)
   * [1，运维客户端](wu-ff0c-ke-hu-duan-ding-yi/51ff0c-yun-wei-ke-hu-duan.md)
-    * [1.1，听歌版](wu-ff0c-ke-hu-duan-ding-yi/51ff0c-yun-wei-ke-hu-duan/11ff0c-ting-ge-zu.md)
+    * [1.1，小编版](wu-ff0c-ke-hu-duan-ding-yi/51ff0c-yun-wei-ke-hu-duan/11ff0c-ting-ge-zu.md)
     * [1.2，审核版](wu-ff0c-ke-hu-duan-ding-yi/51ff0c-yun-wei-ke-hu-duan/12ff0c-shen-he-zu.md)
     * [1.3，客服版](wu-ff0c-ke-hu-duan-ding-yi/51ff0c-yun-wei-ke-hu-duan/13ff0c-ke-fu-zu.md)
   * [2，用户客户端](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan.md)
