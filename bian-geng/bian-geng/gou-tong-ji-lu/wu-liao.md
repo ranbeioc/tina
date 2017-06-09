@@ -1,7 +1,5 @@
 # 协作
 
-对协同工作中使用的各类图像或附件的在线预览链接外，提供完整的原文件。
-
 ```
 一，实时文档协作平台 - Gitbook
 
@@ -56,6 +54,9 @@ Tips: 用于与组员实时任务分派与文件共享，适用于敏捷开发�
 iOS：https://guide.teambition.net/hc/kb/article/1002181/
 iPad：https://guide.teambition.net/hc/kb/article/1002182/
 Android：https://guide.teambition.net/hc/kb/article/1002169/
+
+
+注：对协同工作平台中使用的各类图像或附件的在线预览链接外，提供完整的原文件。
 ```
 
 本项目协作内容说明：
