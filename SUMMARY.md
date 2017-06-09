@@ -5,7 +5,7 @@
   * [计划](gong-zuo-ji-hua.md)
 * [版本](bian-geng.md)
   * [变更](bian-geng/bian-geng.md)
-  * [沟通记录](bian-geng/bian-geng/gou-tong-ji-lu.md)
+  * [沟通](bian-geng/bian-geng/gou-tong-ji-lu.md)
 * [一，需求收集](chapter1.md)
   * [1，管理层](chapter1/0ff0c-guan-li-ceng.md)
   * [2，曲库组](chapter1/test.md)
