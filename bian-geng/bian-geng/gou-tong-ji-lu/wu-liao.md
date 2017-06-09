@@ -45,18 +45,18 @@ http://processon.com/support#mind-share
 
 Tips: 用于与组员实时任务分派与文件共享，适用于敏捷开发管理工具。为适用于国内环境从Trello选用Teambition平台
 
-注册账户地址：https://account.teambition.com/signup
-
 项目实时协作账户：
 1，提供邮箱或是平台用户名即可邀请；
 2，通过链接加入：
 微信：https://tburl.in/hKzr8OSR（2017-06-11有效）
 Teambition客户端：https://tburl.in/MKVDDK0p
 
+注册账户地址：https://account.teambition.com/signup
+
 快速上手：https://guide.teambition.net/hc/kb/article/1002140/
 插件指南：https://guide.teambition.net/hc/kb/article/1001800/
 
-客户端下载：
+客户端下载：https://www.teambition.com/apps
 iOS：https://guide.teambition.net/hc/kb/article/1002181/
 iPad：https://guide.teambition.net/hc/kb/article/1002182/
 Android：https://guide.teambition.net/hc/kb/article/1002169/
