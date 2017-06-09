@@ -56,6 +56,9 @@ Android：https://guide.teambition.net/hc/kb/article/1002169/
 
 Tips: 用于与组员实时在线协作编辑用例图，流程图，架构图，泳道图等图形。可将实时图地址嵌入Gitbook对应页面内。
 
+已邀请添加所有组内成员，注意邮件通知
+加入协作小组：http://www.processon.com/team/invite/530b13310cf2fe02622e280d/JjwDRRpJ
+
 注册账户地址：https://www.processon.com/i/530471d80cf2fbb21ab14d91
 
 导入本地文件：http://processon.com/support#file-import
