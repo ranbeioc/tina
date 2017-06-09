@@ -36,7 +36,7 @@ Tips: 用于与组员实时任务分派与文件共享，适用于敏捷开发�
 项目实时协作账户：已添加所有组内成员，注意邮件通知
 1，提供邮箱或是平台用户名即可邀请；
 2，通过链接加入：
-微信：https://tburl.in/hKzr8OSR（2017-06-11有效）
+微信：https://tburl.in/hKzr8OSR（2017-06-11前有效）
 Teambition客户端：https://tburl.in/MKVDDK0p
 
 注册账户地址：https://account.teambition.com/signup
