@@ -2,7 +2,7 @@
 
 * [概述](README.md)
   * [协作](bian-geng/bian-geng/gou-tong-ji-lu/wu-liao.md)
-  * [工作计划](gong-zuo-ji-hua.md)
+  * [计划](gong-zuo-ji-hua.md)
 * [版本](bian-geng.md)
   * [变更](bian-geng/bian-geng.md)
   * [沟通记录](bian-geng/bian-geng/gou-tong-ji-lu.md)
