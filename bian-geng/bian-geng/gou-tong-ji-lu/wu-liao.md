@@ -12,7 +12,7 @@ Tips: 用于与组员实时在线协作编辑系统定义与架构功能分解�
 
 
 项目实时预览地址：https://skyfire.gitbooks.io/tina/content/
-Tips: 获取项目其他文档，可通过Gitbook导出为PDF,epub等标准文档格式。
+Tips: 获取项目标准文档，可通过Gitbook导出为PDF,epub等标准文档格式。
 
 
 项目实时协作账户：
