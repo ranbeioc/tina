@@ -27,21 +27,9 @@ Tips: 如遇同步错误请在hosts文件配置解析：
 107.178.217.55    git.gitbook.com
 
 
-二，实时架构协作平台 - ProcessOn
-
-Tips: 用于与组员实时在线协作编辑用例图，流程图，架构图，泳道图等图形。可将实时图地址嵌入Gitbook对应页面内。
-
-注册账户地址：https://www.processon.com/i/530471d80cf2fbb21ab14d91
-
-导入本地文件：http://processon.com/support#file-import
-分享组员预览文件：
-http://processon.com/support#file-release 
-http://processon.com/support#mind-share
-邀请组员协作文件：http://processon.com/support#file-cooperation
-更多帮助文档：http://processon.com/support#preface
 
 
-三，实时任务管理平台 - Teambition
+二，实时任务管理平台 - Teambition
 
 Tips: 用于与组员实时任务分派与文件共享，适用于敏捷开发管理工具。为适用于国内环境从Trello选用Teambition平台
 
@@ -60,6 +48,24 @@ Teambition客户端：https://tburl.in/MKVDDK0p
 iOS：https://guide.teambition.net/hc/kb/article/1002181/
 iPad：https://guide.teambition.net/hc/kb/article/1002182/
 Android：https://guide.teambition.net/hc/kb/article/1002169/
+
+
+
+
+三，实时架构协作平台 - ProcessOn
+
+Tips: 用于与组员实时在线协作编辑用例图，流程图，架构图，泳道图等图形。可将实时图地址嵌入Gitbook对应页面内。
+
+注册账户地址：https://www.processon.com/i/530471d80cf2fbb21ab14d91
+
+导入本地文件：http://processon.com/support#file-import
+分享组员预览文件：
+http://processon.com/support#file-release 
+http://processon.com/support#mind-share
+邀请组员协作文件：http://processon.com/support#file-cooperation
+更多帮助文档：http://processon.com/support#preface
+
+
 
 
 注：对协同工作平台中使用的各类图像或附件的在线预览链接外，提供完整的原文件。
