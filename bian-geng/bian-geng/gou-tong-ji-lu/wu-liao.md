@@ -45,7 +45,7 @@ http://processon.com/support#mind-share
 
 三，实时任务管理平台 - Teambition
 
-Tips: 用于与组员实时任务分派与共享，适用于敏捷开发管理工具。为适用于国内环境从Trello选用Teambition平台
+Tips: 用于与组员实时任务分派与文件共享，适用于敏捷开发管理工具。为适用于国内环境从Trello选用Teambition平台
 
 注册账户地址：https://account.teambition.com/signup
 
