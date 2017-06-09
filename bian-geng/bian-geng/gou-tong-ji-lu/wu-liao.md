@@ -1,4 +1,4 @@
-# 物料
+# 协作
 
 对协同工作中使用的各类图像或附件的在线预览链接外，提供完整的原文件。
 
@@ -8,10 +8,13 @@
 Tips: 用于与组员实时在线协作编辑系统定义与架构功能分解等描述。
 
 项目资源同步地址：https://github.com/ranbeioc/tina
-项目文档部署地址：https://www.gitbook.com/book/skyfire/tina/
-
+项目文档部署地址：https://git.gitbook.com/skyfire/tina.git
 项目实时预览地址：https://skyfire.gitbooks.io/tina/content/
-项目实时协作账户：提供邮箱或是平台用户名即可邀请
+
+项目实时协作账户：
+1，提供邮箱或是平台用户名即可邀请；
+2，经第一步操作后，可访问以下链接操作加入协作：
+https://www.gitbook.com/join?email=[邮件名]%40[邮件域]&book=TINA
 
 
 客户端下载：
@@ -32,6 +35,14 @@ Tips: 用于与组员实时在线协作编辑用例图，流程图，架构图�
 分享组员预览文件：http://processon.com/support#file-release http://processon.com/support#mind-share
 邀请组员协作文件：http://processon.com/support#file-cooperation
 更多帮助文档：http://processon.com/support#preface
+```
+
+本项目协作内容说明：
+
+```
+本项目文档包含 MileStone 1 & 2 周期阶段性内容。
+
+本项目文档不包含 MileStone 3 & 4 周期阶段性内容，将另行通知。
 ```
 
 

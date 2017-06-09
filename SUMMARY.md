@@ -1,11 +1,11 @@
 # Summary
 
 * [概述](README.md)
+  * [协作](bian-geng/bian-geng/gou-tong-ji-lu/wu-liao.md)
   * [工作计划](gong-zuo-ji-hua.md)
 * [版本](bian-geng.md)
   * [变更](bian-geng/bian-geng.md)
   * [沟通记录](bian-geng/bian-geng/gou-tong-ji-lu.md)
-  * [物料](bian-geng/bian-geng/gou-tong-ji-lu/wu-liao.md)
 * [一，需求收集](chapter1.md)
   * [0，管理层](chapter1/0ff0c-guan-li-ceng.md)
   * [1，曲库组](chapter1/test.md)
