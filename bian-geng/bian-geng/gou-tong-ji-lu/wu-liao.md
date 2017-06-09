@@ -9,20 +9,24 @@ Tips: 用于与组员实时在线协作编辑系统定义与架构功能分解�
 
 项目资源同步地址：https://github.com/ranbeioc/tina
 项目文档部署地址：https://git.gitbook.com/skyfire/tina.git
+
+
 项目实时预览地址：https://skyfire.gitbooks.io/tina/content/
+Tips: 获取项目其他文档，可通过Gitbook导出为PDF,epub等标准文档格式。
+
 
 项目实时协作账户：
 1，提供邮箱或是平台用户名即可邀请；
-2，经第一步操作后，可访问以下链接操作加入协作：
+2，完成第1步邀请后，可访问以下链接操作加入协作：
 https://www.gitbook.com/join?email=[邮件名]%40[邮件域]&book=TINA
 
 
 客户端下载：
+Mac：https://www.gitbook.com/editor/osx/download
+Windows：https://www.gitbook.com/editor/windows/download
 
-（Mac）https://www.gitbook.com/editor/osx/download
-（Windows）https://www.gitbook.com/editor/windows/download
-
-Tips: 如遇同步错误请在hosts文件配置解析：    107.178.217.55    git.gitbook.com
+Tips: 如遇同步错误请在hosts文件配置解析：
+107.178.217.55    git.gitbook.com
 
 
 二，实时架构协作平台 - ProcessOn
@@ -35,9 +39,31 @@ Tips: 用于与组员实时在线协作编辑用例图，流程图，架构图�
 分享组员预览文件：http://processon.com/support#file-release http://processon.com/support#mind-share
 邀请组员协作文件：http://processon.com/support#file-cooperation
 更多帮助文档：http://processon.com/support#preface
+
+
+三，实时任务管理平台 - Teambition
+
+Tips: 用于与组员实时任务分派与共享，适用于敏捷开发管理工具。为适用于国内环境从Trello选用Teambition平台
+
+注册账户地址：https://account.teambition.com/signup
+
+快速上手：https://guide.teambition.net/hc/kb/article/1002140/
+插件指南：https://guide.teambition.net/hc/kb/article/1001800/
+
+客户端下载：
+iOS：https://guide.teambition.net/hc/kb/article/1002181/
+iPad：https://guide.teambition.net/hc/kb/article/1002182/
+Android：https://guide.teambition.net/hc/kb/article/1002169/
+
 ```
 
+本项目协作内容说明：
 
+```
+本项目文档包含 MileStone 1 & 2 周期阶段性内容。
+
+本项目文档不包含 MileStone 3 & 4 周期阶段性内容，将另行通知。
+```
 
 
 
