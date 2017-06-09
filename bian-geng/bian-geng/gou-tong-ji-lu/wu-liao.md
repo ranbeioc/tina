@@ -36,7 +36,9 @@ Tips: 用于与组员实时在线协作编辑用例图，流程图，架构图�
 注册账户地址：https://www.processon.com/i/530471d80cf2fbb21ab14d91
 
 导入本地文件：http://processon.com/support#file-import
-分享组员预览文件：http://processon.com/support#file-release http://processon.com/support#mind-share
+分享组员预览文件：
+http://processon.com/support#file-release 
+http://processon.com/support#mind-share
 邀请组员协作文件：http://processon.com/support#file-cooperation
 更多帮助文档：http://processon.com/support#preface
 
@@ -54,7 +56,6 @@ Tips: 用于与组员实时任务分派与共享，适用于敏捷开发管理�
 iOS：https://guide.teambition.net/hc/kb/article/1002181/
 iPad：https://guide.teambition.net/hc/kb/article/1002182/
 Android：https://guide.teambition.net/hc/kb/article/1002169/
-
 ```
 
 本项目协作内容说明：
