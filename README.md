@@ -4,8 +4,6 @@ TINA Front end product and system reconfiguration
 
 Version：1.0
 
-Platform：[https://ranbeioc.github.io/tina-re/](https://ranbeioc.github.io/tina-re/)
-
 > 1，When you read the mobile phone, click the upper **left corner** menu to view the document directory。
 >
 > 2，This document may be **loaded longer** due to a longer network environment。
@@ -13,7 +11,8 @@ Platform：[https://ranbeioc.github.io/tina-re/](https://ranbeioc.github.io/tina
 ![](/assets/Snip20170612_29.png)
 
 ```
-[NOTES]
+Platform：https://ranbeioc.github.io/tina-re/
+Notes：
 Sous：GitHub
 Docs：Gitbook
 Flows：ProcessOn
