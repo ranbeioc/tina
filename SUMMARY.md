@@ -54,8 +54,8 @@
       * [2.1.4，功能架构](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/214ff0c-gong-neng-jia-gou.md)
       * [2.1.5，信息结构](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/215ff0c-xin-xi-jie-gou.md)
       * [2.1.6，产品依赖与风险](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/216ff0c-chan-pin-yi-lai-yu-feng-xian.md)
-      * [2.1.7，非功能性需求](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/217ff0c-fei-gong-neng-xing-xu-qiu.md)
       * [2.1.8，平台差异](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/218ff0c-ping-tai-cha-yi.md)
+      * [2.1.7，非功能性需求](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/217ff0c-fei-gong-neng-xing-xu-qiu.md)
     * [2.2，平板端](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/22ff0c-ping-ban-duan.md)
     * [2.3，电视端](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/23ff0c-dian-shi-duan.md)
 
