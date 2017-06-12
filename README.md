@@ -10,8 +10,9 @@ Version：1.0
 
 ![](/assets/Snip20170612_29.png)
 
-```
 Platform：https://ranbeioc.github.io/tina-re/
+
+```
 Notes：
 Sous：GitHub
 Docs：Gitbook
@@ -19,5 +20,5 @@ Flows：ProcessOn
 WBS：Teambition
 ```
 
-Skyfire build at 2017-06-12 19:44:22
+Skyfire build at 2017-06-12 19:53:22
 
