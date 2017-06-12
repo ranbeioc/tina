@@ -14,6 +14,8 @@ https://www.processon.com/view/link/593e1463e4b0837393a8560b
 3，有关虚拟充值业务；
 ```
 
+> 以下配有图片加载时间可能因网速时间较长
+
 预览图如下：
 
 ![](/assets/Snip20170612_4.png)
