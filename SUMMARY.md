@@ -18,6 +18,7 @@
   * [2，现有系统功能架构](er-ff0c-xiang-mu-fen-jie/2ff0c-xian-you-xi-tong-gong-neng-jia-gou.md)
     * [2.1，销售审核系统](er-ff0c-xiang-mu-fen-jie/2ff0c-xian-you-xi-tong-gong-neng-jia-gou/21ff0c-xiao-shou-ti-xian-xi-tong.md)
     * [2.2，运营后台管理](er-ff0c-xiang-mu-fen-jie/2ff0c-xian-you-xi-tong-gong-neng-jia-gou/22ff0c-yun-ying-hou-tai-guan-li.md)
+    * [2.3，曲库管理系统](er-ff0c-xiang-mu-fen-jie/2ff0c-xian-you-xi-tong-gong-neng-jia-gou/23ff0c-qu-ku-guan-li-xi-tong.md)
 * [三，系统拆分](san-ff0c-xi-tong-hua-fen.md)
   * [1，系统架构](san-ff0c-xi-tong-hua-fen/de.md)
   * [2，核心概要](san-ff0c-xi-tong-hua-fen/1ff0c-he-xin-gai-yao.md)
