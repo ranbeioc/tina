@@ -6,9 +6,9 @@ Version：1.0
 
 Platform：[https://ranbeioc.github.io/tina-re/](https://ranbeioc.github.io/tina-re/)
 
-> 1，When you read the mobile phone, click the upper left corner menu to view the document directory。
+> 1，When you read the mobile phone, click the upper **left corner** menu to view the document directory。
 >
-> 2，This document may be loaded longer due to a longer network environment。
+> 2，This document may be **loaded longer** due to a longer network environment。
 
 ![](/assets/Snip20170612_29.png)
 
