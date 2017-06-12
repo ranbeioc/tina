@@ -1,6 +1,6 @@
 # 系统用例
 
-请参考：https://www.ibm.com/developerworks/cn/rational/r-usecase-atm/index.html
+请参考：[https://www.ibm.com/developerworks/cn/rational/r-usecase-atm/index.html](https://www.ibm.com/developerworks/cn/rational/r-usecase-atm/index.html)
 
 用户故事
 
