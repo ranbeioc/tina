@@ -10,5 +10,13 @@ Platform：[https://ranbeioc.github.io/tina-re/](https://ranbeioc.github.io/tina
 
 ![](/assets/Snip20170612_29.png)
 
+```
+[NOTES]
+Sous：GitHub
+Docs：Gitbook
+Flows：ProcessOn
+WBS：Teambition
+```
+
 Skyfire build at 2017-6-10 03:24:33
 
