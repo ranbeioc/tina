@@ -2,9 +2,9 @@
 
 在线协作地址如下：
 
-https://www.processon.com/view/link/593e1463e4b0837393a8560b
+[https://www.processon.com/view/link/593e1463e4b0837393a8560b](https://www.processon.com/view/link/593e1463e4b0837393a8560b)
 
-本功能架构不包括以下内容：
+本功能架构因权限不包括以下内容：
 
 ```
 1，有关财务操作相关内容；
@@ -12,7 +12,7 @@ https://www.processon.com/view/link/593e1463e4b0837393a8560b
 3，有关虚拟充值业务；
 ```
 
-> 以下配有图片加载时间可能因网速时间较长
+> 以下配有图片加载时间可能因网速等待时间较长
 
 预览图如下：
 

@@ -2,9 +2,9 @@
 
 在线协作地址如下：
 
-https://www.processon.com/view/link/593e1340e4b05a4d43819c5c
+[https://www.processon.com/view/link/593e1340e4b05a4d43819c5c](https://www.processon.com/view/link/593e1340e4b05a4d43819c5c)
 
-> 以下配有图片加载时间可能因网速时间较长
+> 以下配有图片加载时间可能因网速等待时间较长
 
 各子系统预览图如下（未拆分业务功能）：
 
