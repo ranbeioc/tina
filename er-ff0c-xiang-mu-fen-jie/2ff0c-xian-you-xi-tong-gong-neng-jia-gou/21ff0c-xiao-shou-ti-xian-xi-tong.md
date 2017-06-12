@@ -4,7 +4,7 @@
 
 [https://www.processon.com/view/link/593e1463e4b0837393a8560b](https://www.processon.com/view/link/593e1463e4b0837393a8560b)
 
-本功能架构因权限不包括以下内容：
+本功能架构因权限限制不包括以下内容：（将在后续补充）
 
 ```
 1，有关财务操作相关内容；
