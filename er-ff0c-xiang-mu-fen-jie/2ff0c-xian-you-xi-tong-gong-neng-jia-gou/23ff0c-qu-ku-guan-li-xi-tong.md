@@ -8,7 +8,11 @@ https://www.processon.com/view/link/593e1340e4b05a4d43819c5c
 
 各子系统预览图如下（未拆分业务功能）：
 
+歌曲标签管理：
+
 ![](/assets/Snip20170612_16.png)
+
+报表功能管理：
 
 ![](/assets/Snip20170612_17.png)
 
@@ -16,9 +20,13 @@ https://www.processon.com/view/link/593e1340e4b05a4d43819c5c
 
 ![](/assets/Snip20170612_19.png)
 
+曲目管理：
+
 ![](/assets/Snip20170612_20.png)
 
 ![](/assets/Snip20170612_21.png)
+
+歌手栏目管理：
 
 ![](/assets/Snip20170612_23.png)
 
