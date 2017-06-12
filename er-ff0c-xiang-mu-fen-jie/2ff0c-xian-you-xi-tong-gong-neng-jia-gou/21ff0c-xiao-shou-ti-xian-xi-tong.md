@@ -2,9 +2,7 @@
 
 在线协作地址如下：
 
-```
 https://www.processon.com/view/link/593e1463e4b0837393a8560b
-```
 
 本功能架构不包括以下内容：
 
