@@ -38,7 +38,7 @@
     * [1.3，流程逻辑](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/14ff0c-cao-zuo-liu-cheng.md)
     * [1.4，功能架构](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou.md)
     * [1.5，信息结构](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/12ff0c-xin-xi-jie-gou.md)
-      * 1.5.1，技术规格
+      * [1.5.1，技术规格](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/12ff0c-xin-xi-jie-gou/151ff0c-ji-zhu-gui-ge.md)
     * [1.6，系统依赖与风险](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/15ff0c-xi-tong-yi-lai.md)
     * [1.7，非功能性需求](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/16ff0c-fei-gong-neng-xing-xu-qiu.md)
     * [1.8，工作流程](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/16ff0c-gong-zuo-liu-cheng.md)
