@@ -37,8 +37,15 @@
     * [1.2，系统用例](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-xi-tong-yong-li.md)
     * [1.3，流程逻辑](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/14ff0c-cao-zuo-liu-cheng.md)
     * [1.4，功能架构](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou.md)
+      * [1.4.0，条目元数据管理](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou/140ff0c-yuan-shu-ju-guan-li.md)
+      * [1.4.1，歌曲管理](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou/141ff0c-ge-qu-guan-li.md)
+      * [1.4.2，三方资源管理](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou/142ff0c-san-fang-zi-yuan-guan-li.md)
+      * [1.4.3，标签管理](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou/143ff0c-biao-qian-guan-li.md)
+      * [1.4.4，版权管理](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou/144ff0c-ban-quan-guan-li.md)
+      * [1.4.5，缓存管理](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/11ff0c-gong-neng-jie-gou/145ff0c-huan-cun-guan-li.md)
+      * 1.4.6，CDN管理
     * [1.5，信息结构](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/12ff0c-xin-xi-jie-gou.md)
-      * 1.5.1，技术规格
+      * [1.5.1，技术规格](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/12ff0c-xin-xi-jie-gou/151ff0c-ji-zhu-gui-ge.md)
     * [1.6，系统依赖与风险](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/15ff0c-xi-tong-yi-lai.md)
     * [1.7，非功能性需求](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/16ff0c-fei-gong-neng-xing-xu-qiu.md)
     * [1.8，工作流程](si-ff0c-xi-tong-ding-yi/1ff0c-mei-zi-ku/16ff0c-gong-zuo-liu-cheng.md)
@@ -47,6 +54,7 @@
   * [5，审核系统（CAS）](si-ff0c-xi-tong-ding-yi/4ff0c-shen-he-xi-tong.md)
   * [6，运营系统（COS）](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong.md)
   * [7，交易系统（OTS）](7ff0c-jiao-yi-xi-tong-ff08-ots.md)
+  * 8，运维系统
 * [五，客户端](wu-ff0c-ke-hu-duan-ding-yi.md)
   * [1，运维客户端](wu-ff0c-ke-hu-duan-ding-yi/51ff0c-yun-wei-ke-hu-duan.md)
     * [1.1，小编版](wu-ff0c-ke-hu-duan-ding-yi/51ff0c-yun-wei-ke-hu-duan/11ff0c-ting-ge-zu.md)
