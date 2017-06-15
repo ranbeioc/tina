@@ -49,6 +49,7 @@
 | 版权信息 | &lt;copyrightInfo&gt;Array | 分地域，版权公司，渠道/平台/版本 | P1 |
 | 付费信息 | &lt;payInfo&gt;Array | 会员/单付/试用，渠道/平台/版本，生效时间周期 | P2 |
 | 调用类数据 | &lt;userId+view+play+down+pay+like+coms+re&gt; | **数据系统引入** | P1 |
+| 推荐系数 | &lt;x-y-z&gt; | **推荐系统引入** | P2 |
 |  |  |  |  |
 | **艺术家（Art）** |  |  |  |
 | 歌手编号 | K1234567890 | （唯一标识） | P1 |
@@ -88,6 +89,7 @@
 | 版权信息 | &lt;copyrightInfo&gt;Array | 分地域，版权公司，渠道/平台/版本 | P1 |
 | 付费信息 | &lt;payInfo&gt;Array | 会员/单付/试用，渠道/平台/版本，生效时间周期 | P1 |
 | 调用类数据 | &lt;userId+view+play+down+pay+like+coms+re&gt; | **数据系统引入** | P1 |
+| 推荐系数 | &lt;x-y-z&gt; | **推荐系统引入** | P2 |
 |  |  |  |  |
 | **专辑（Album）** |  |  |  |
 | 专辑编号 | Z1234567890 | （唯一标识） | P1 |
@@ -121,6 +123,7 @@
 | 版权信息 | &lt;copyrightInfo&gt;Array | 分地域，版权公司，渠道/平台/版本 | P1 |
 | 付费信息 | &lt;payInfo&gt;Array | 会员/单付/试用，渠道/平台/版本，生效时间周期 | P1 |
 | 调用类数据 | &lt;userId+view+play+down+pay+like+coms+re&gt; | **数据系统引入** |  |
+| 推荐系数 | &lt;x-y-z&gt; | **推荐系统引入** | P2 |
 |  |  |  |  |
 | **歌单（Sheet）** |  |  |  |
 | 歌单编号 | D1234567890 | （唯一标识） | P2 |
@@ -145,6 +148,7 @@
 | 版权信息 | &lt;copyrightInfo&gt;Array | 分地域，版权公司，渠道/平台/版本 | P2 |
 | 付费信息 | &lt;payInfo&gt;Array | 会员/单付/试用，渠道/平台/版本，生效时间周期 | P2 |
 | 调用类数据 | &lt;userId+view+play+down+pay+like+coms+re&gt; | **数据系统引入** | P1 |
+| 推荐系数 | &lt;x-y-z&gt; | **推荐系统引入** | P2 |
 |  |  |  |  |
 | **栏目（Section）** |  |  |  |
 | 栏目编号 | C1234567890 | 唯一标识 | P1 |
@@ -158,7 +162,7 @@
 | 上下架时间周期 | 2017-04-01 00:00至2017-06-30 23:59 | 自动上下架 | P2 |
 | 付费信息 | &lt;payInfo&gt;Array | 会员/单付/试用，渠道/平台/版本，生效时间周期 | P2 |
 | 调用类数据 | &lt;userId+view+play+down+pay+like+coms+re&gt; | **数据系统引入** | P1 |
-|  |  |  |  |
+| 推荐系数 | &lt;x-y-z&gt; | **推荐系统引入** | P2 |
 
 ### 主要的的管理项和实施目标如下：
 
