@@ -77,8 +77,15 @@
       * [2.4.3，用户荣誉库](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/243ff0c-yong-hu-rong-yu-ku.md)
       * [2.4.4，用户故事路径](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/253ff0c-yong-hu-gu-shi-lu-jing.md)
     * [2.5，流程逻辑](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/213ff0c-liu-cheng-luo-ji.md)
-    * [2.6，非功能性需求](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/217ff0c-fei-gong-neng-xing-xu-qiu.md)
-    * [2.7，变更记录](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng.md)
+    * [2.6，主要功能设计](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng.md)
+      * [2.6.1，K歌](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/261kge.md)
+      * 2.6.2，直播
+      * 2.6.3，活动
+      * 2.6.4，榜单
+      * 2.6.5，IM
+      * 2.6.6，道具
+      * 2.6.7，辅助功能
+    * [2.7，非功能性需求](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/217ff0c-fei-gong-neng-xing-xu-qiu.md)
     * [2.8，信息结构](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/215ff0c-xin-xi-jie-gou.md)
   * [3，电视端](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/23ff0c-dian-shi-duan.md)
   * [4，平板端](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/22ff0c-ping-ban-duan.md)
