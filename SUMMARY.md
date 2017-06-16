@@ -71,7 +71,11 @@
       * 2.3.6，图片规范定义
       * [2.3.7，适配原则](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/237ff0c-shi-pei-yuan-ze.md)
       * 2.3.8，交互原则
-    * [2.4，产品用例](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li.md)
+    * [2.4，用户故事](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li.md)
+      * [2.4.1，用户角色定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/241ff0c-yong-hu-jiao-se-ding-yi.md)
+      * [2.4.2，用户任务定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/242ff0c-yong-hu-ren-wu-ding-yi.md)
+      * [2.4.3，用户荣誉库](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/243ff0c-yong-hu-rong-yu-ku.md)
+      * [2.4.4，用户故事路径](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/253ff0c-yong-hu-gu-shi-lu-jing.md)
     * [2.5，流程逻辑](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/213ff0c-liu-cheng-luo-ji.md)
     * [2.6，非功能性需求](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/217ff0c-fei-gong-neng-xing-xu-qiu.md)
     * [2.7，变更记录](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng.md)
