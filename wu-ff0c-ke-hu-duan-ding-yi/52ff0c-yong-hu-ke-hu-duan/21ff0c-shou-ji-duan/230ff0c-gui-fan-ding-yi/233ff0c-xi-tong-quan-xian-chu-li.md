@@ -1,2 +1,2 @@
-![](/assets/权限.png)![](/assets/权限2.png)
+![](/assets/系统权限1 .png)![](/assets/系统权限 2.png)
 
