@@ -64,8 +64,8 @@
     * [2.2，功能架构](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/214ff0c-gong-neng-jia-gou.md)
     * [2.3，规范定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi.md)
       * [2.3.1，撰写说明](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/231ff0c-zhuan-xie-shuo-ming.md)
-      * [2.3.2，异常处理机制](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/232ff0c-yi-chang-chu-li-ji-zhi.md)
       * [2.3.3，系统权限处理](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/233ff0c-xi-tong-quan-xian-chu-li.md)
+      * [2.3.2，异常处理机制](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/232ff0c-yi-chang-chu-li-ji-zhi.md)
       * [2.3.5，内容缓存机制处理](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/235ff0c-nei-rong-huan-cun-ji-zhi-chu-li.md)
       * [2.3.4，内容加载机制处理](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/234ff0c-nei-rong-jia-zai-ji-zhi-chu-li.md)
       * 2.3.6，图片规范定义
