@@ -94,7 +94,7 @@
       * [2.3.4，内容加载机制处理](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/234ff0c-nei-rong-jia-zai-ji-zhi-chu-li.md)
       * [2.3.6，图片规范定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/236ff0c-tu-pian-gui-fan-ding-yi.md)
       * [2.3.7，适配原则](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/237ff0c-shi-pei-yuan-ze.md)
-      * 2.3.8，交互原则
+      * [2.3.8，交互原则](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/238ff0c-jiao-hu-yuan-ze.md)
     * [2.4，用户故事](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li.md)
       * [2.4.1，用户角色定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/241ff0c-yong-hu-jiao-se-ding-yi.md)
       * [2.4.2，用户任务定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/242ff0c-yong-hu-ren-wu-ding-yi.md)
