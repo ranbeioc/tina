@@ -52,6 +52,30 @@
   * [4，客服系统（USS）](si-ff0c-xi-tong-ding-yi/3ff0c-ke-fu-xi-tong.md)
   * [5，审核系统（CAS）](si-ff0c-xi-tong-ding-yi/4ff0c-shen-he-xi-tong.md)
   * [6，运营系统（COS）](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong.md)
+    * 6.1，产品演进
+    * 6.2，系统用例
+    * 6.3，流程逻辑
+    * [6.4，功能架构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou.md)
+      * [6.4.1，账户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li.md)
+        * 6.4.1.1，管理员
+        * [6.4.1.2，权限配置](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6412ff0c-bian-ji.md)
+      * 6.4.2，用户管理
+        * 6.4.2.1，明星账号管理
+        * 6.4.2.2，普通用户管理
+      * 6.4.3，消息群组管理
+      * 6.4.4，作品管理
+      * 6.4.5，活动管理
+        * 6.4.5.1，线上活动管理
+        * 6.4.5.2，活动后台管理
+      * 6.4.6，直播间管理
+      * 6.4.7，广告管理
+      * 6.4.8，礼物管理
+      * 6.4.9，开关配置
+      * 6.4.10，操作日志
+    * 6.5，信息结构
+    * 6.6，系统依赖与风险
+    * 6.7，非功能性需求
+    * 6.8，工作流程
   * [7，交易系统（OTS）](7ff0c-jiao-yi-xi-tong-ff08-ots.md)
   * 8，运维系统
 * [五，客户端](wu-ff0c-ke-hu-duan-ding-yi.md)
