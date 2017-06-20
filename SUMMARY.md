@@ -68,7 +68,7 @@
       * [2.3.2，异常处理机制](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/232ff0c-yi-chang-chu-li-ji-zhi.md)
       * [2.3.5，内容缓存机制处理](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/235ff0c-nei-rong-huan-cun-ji-zhi-chu-li.md)
       * [2.3.4，内容加载机制处理](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/234ff0c-nei-rong-jia-zai-ji-zhi-chu-li.md)
-      * 2.3.6，图片规范定义
+      * [2.3.6，图片规范定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/236ff0c-tu-pian-gui-fan-ding-yi.md)
       * [2.3.7，适配原则](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/237ff0c-shi-pei-yuan-ze.md)
       * 2.3.8，交互原则
     * [2.4，用户故事](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li.md)
