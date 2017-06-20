@@ -59,28 +59,31 @@
       * [6.4.1，账户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li.md)
         * 6.4.1.1，账号分配
         * [6.4.1.2，权限配置](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6412ff0c-bian-ji.md)
-      * 6.4.2，用户管理
+      * [6.4.2，用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li.md)
         * 6.4.2.1，明星账号管理
         * 6.4.2.2，普通用户管理
         * 6.4.2.3，VIP用户管理
-      * 6.4.3，消息群组管理
-      * 6.4.4，作品管理
-      * 6.4.5，活动管理
+      * [6.4.3，消息群组管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/643ff0c-xiao-xi-qun-zu-guan-li.md)
+      * [6.4.4，作品管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li.md)
+      * [6.4.5，活动管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li.md)
         * 6.4.5.1，线上活动管理
         * 6.4.5.2，活动后台管理
-      * 6.4.6，直播间管理
+      * [6.4.6，直播间管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/646ff0c-zhi-bo-jian-guan-li.md)
       * [6.4.7，广告管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li.md)
         * 6.4.7.1，电视端广告
         * 6.4.7.2，移动端广告
-      * 6.4.8，虚拟物管理
+      * [6.4.8，虚拟物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li.md)
         * 6.4.8.1，礼物管理
         * 6.4.8.2，挂坠管理
         * 6.4.8.3，头像框管理
-      * 6.4.9，终端管理
+        * 6.4.8.4，签到管理
+      * [6.4.9，终端管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li.md)
         * 6.4.9.1，版本管理
         * 6.4.9.2，开关配置
-      * 6.4.10，操作日志
-      * 6.4.11，检索与报表
+        * 6.4.9.3，系统消息推送
+        * 6.4.9.4，Widget
+      * [6.4.10，操作日志](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6410ff0c-cao-zuo-ri-zhi.md)
+      * [6.4.11，检索与报表](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6411ff0c-jian-suo-yu-bao-biao.md)
     * 6.5，信息结构
     * 6.6，系统依赖与风险
     * 6.7，非功能性需求
