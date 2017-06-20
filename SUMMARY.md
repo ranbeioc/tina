@@ -57,7 +57,7 @@
     * 6.3，流程逻辑
     * [6.4，功能架构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou.md)
       * [6.4.1，账户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li.md)
-        * 6.4.1.1，账号分配
+        * [6.4.1.1，账号分配](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6411ff0c-zhang-hao-fen-pei.md)
         * [6.4.1.2，权限配置](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6412ff0c-bian-ji.md)
       * [6.4.2，用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li.md)
         * 6.4.2.1，明星账号管理
