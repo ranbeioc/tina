@@ -65,8 +65,12 @@
         * 6.4.2.3，VIP用户管理
       * [6.4.3，消息群组管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/643ff0c-xiao-xi-qun-zu-guan-li.md)
       * [6.4.4，作品管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li.md)
+        * [6.4.4.1作品信息](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li/zuo-pin-xin-xi.md)
+        * [6.4.4.2录音信息](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li/lu-yin-xin-xi.md)
+        * [6.4.4.3互动信息](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li/hu-dong-xin-xi.md)
+        * [6.4.4.4其他功能互动信息](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li/6444qi-ta-gong-neng-hu-dong-xin-xi.md)
       * [6.4.5，活动管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li.md)
-        * 6.4.5.1，线上活动管理
+        * [6.4.5.1，线上活动管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li/6451ff0c-xian-shang-huo-dong-guan-li.md)
         * 6.4.5.2，活动后台管理
       * [6.4.6，直播间管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/646ff0c-zhi-bo-jian-guan-li.md)
       * [6.4.7，广告管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li.md)
