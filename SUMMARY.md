@@ -77,7 +77,7 @@
         * 6.4.7.1，电视端广告
         * 6.4.7.2，移动端广告
       * [6.4.8，虚拟物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li.md)
-        * 6.4.8.1，礼物管理
+        * [6.4.8.1，礼物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6481ff0c-li-wu-guan-li.md)
         * 6.4.8.2，挂坠管理
         * 6.4.8.3，头像框管理
         * 6.4.8.4，签到管理
