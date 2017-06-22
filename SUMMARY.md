@@ -54,15 +54,15 @@
   * [6，运营系统（COS）](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong.md)
     * [6.1，产品演进](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/61ff0c-chan-pin-yan-jin.md)
     * [6.2，系统用例](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/62ff0c-xi-tong-yong-li.md)
-    * 6.3，流程逻辑
+    * [6.3，流程逻辑](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/63ff0c-liu-cheng-luo-ji.md)
     * [6.4，功能架构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou.md)
       * [6.4.1，账户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li.md)
         * [6.4.1.1，账号分配](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6411ff0c-zhang-hao-fen-pei.md)
         * [6.4.1.2，权限配置](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6412ff0c-bian-ji.md)
       * [6.4.2，用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li.md)
-        * 6.4.2.1，明星账号管理
-        * 6.4.2.2，普通用户管理
-        * 6.4.2.3，VIP用户管理
+        * [6.4.2.1，明星账号管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li/6421ff0c-ming-xing-zhang-hao-guan-li.md)
+        * [6.4.2.2，普通用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li/6422ff0c-pu-tong-yong-hu-guan-li.md)
+        * [6.4.2.3，VIP用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li/6423vipyong-hu-guan-li.md)
       * [6.4.3，消息群组管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/643ff0c-xiao-xi-qun-zu-guan-li.md)
       * [6.4.4，作品管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li.md)
         * [6.4.4.1作品信息](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li/zuo-pin-xin-xi.md)
@@ -88,7 +88,7 @@
         * 6.4.9.4，Widget
       * [6.4.10，操作日志](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6410ff0c-cao-zuo-ri-zhi.md)
       * [6.4.11，检索与报表](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6411ff0c-jian-suo-yu-bao-biao.md)
-    * 6.5，信息结构
+    * [6.5，信息结构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/65ff0c-xin-xi-jie-gou.md)
     * 6.6，系统依赖与风险
     * 6.7，非功能性需求
     * [6.8，工作流程](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/68ff0c-gong-zuo-liu-cheng.md)
