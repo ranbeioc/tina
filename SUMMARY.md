@@ -60,7 +60,7 @@
         * [6.4.1.1，账号分配](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6411ff0c-zhang-hao-fen-pei.md)
         * [6.4.1.2，权限配置](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6412ff0c-bian-ji.md)
       * [6.4.2，用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li.md)
-        * 6.4.2.1，明星账号管理
+        * [6.4.2.1，明星账号管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li/6421ff0c-ming-xing-zhang-hao-guan-li.md)
         * 6.4.2.2，普通用户管理
         * 6.4.2.3，VIP用户管理
       * [6.4.3，消息群组管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/643ff0c-xiao-xi-qun-zu-guan-li.md)
