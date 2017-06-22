@@ -91,7 +91,7 @@
     * 6.5，信息结构
     * 6.6，系统依赖与风险
     * 6.7，非功能性需求
-    * 6.8，工作流程
+    * [6.8，工作流程](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/68ff0c-gong-zuo-liu-cheng.md)
   * [7，交易系统（OTS）](7ff0c-jiao-yi-xi-tong-ff08-ots.md)
   * 8，运维系统
 * [五，客户端](wu-ff0c-ke-hu-duan-ding-yi.md)
