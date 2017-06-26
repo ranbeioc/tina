@@ -60,9 +60,9 @@
         * [6.4.1.1，账号分配](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6411ff0c-zhang-hao-fen-pei.md)
         * [6.4.1.2，权限配置](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/641ff0c-zhang-hu-guan-li/6412ff0c-bian-ji.md)
       * [6.4.2，用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li.md)
-        * 6.4.2.1，明星账号管理
-        * 6.4.2.2，普通用户管理
-        * 6.4.2.3，VIP用户管理
+        * [6.4.2.1，明星账号管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li/6421ff0c-ming-xing-zhang-hao-guan-li.md)
+        * [6.4.2.2，普通用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li/6422ff0c-pu-tong-yong-hu-guan-li.md)
+        * [6.4.2.3，VIP用户管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/642ff0c-yong-hu-guan-li/6423vipyong-hu-guan-li.md)
       * [6.4.3，消息群组管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/643ff0c-xiao-xi-qun-zu-guan-li.md)
       * [6.4.4，作品管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li.md)
         * [6.4.4.1作品信息](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li/zuo-pin-xin-xi.md)
@@ -71,27 +71,27 @@
         * [6.4.4.4其他功能互动信息](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/644ff0c-zuo-pin-guan-li/6444qi-ta-gong-neng-hu-dong-xin-xi.md)
       * [6.4.5，活动管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li.md)
         * [6.4.5.1，线上活动管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li/6451ff0c-xian-shang-huo-dong-guan-li.md)
-        * 6.4.5.2，活动后台管理
+        * [6.4.5.2，活动后台管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li/6452ff0c-huo-dong-hou-tai-guan-li.md)
       * [6.4.6，直播间管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/646ff0c-zhi-bo-jian-guan-li.md)
       * [6.4.7，广告管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li.md)
         * 6.4.7.1，电视端广告
         * 6.4.7.2，移动端广告
       * [6.4.8，虚拟物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li.md)
-        * 6.4.8.1，礼物管理
-        * 6.4.8.2，挂坠管理
+        * [6.4.8.1，礼物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6481ff0c-li-wu-guan-li.md)
+        * [6.4.8.2，挂坠管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6482ff0c-gua-zhui-guan-li.md)
         * 6.4.8.3，头像框管理
         * 6.4.8.4，签到管理
       * [6.4.9，终端管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li.md)
-        * 6.4.9.1，版本管理
+        * [6.4.9.1，版本管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li/6491ff0c-ban-ben-guan-li.md)
         * 6.4.9.2，开关配置
         * 6.4.9.3，系统消息推送
         * 6.4.9.4，Widget
       * [6.4.10，操作日志](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6410ff0c-cao-zuo-ri-zhi.md)
       * [6.4.11，检索与报表](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6411ff0c-jian-suo-yu-bao-biao.md)
-    * 6.5，信息结构
-    * 6.6，系统依赖与风险
-    * 6.7，非功能性需求
-    * 6.8，工作流程
+    * [6.5，信息结构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/65ff0c-xin-xi-jie-gou.md)
+    * [6.6，系统依赖与风险](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/66ff0c-xi-tong-yi-lai-yu-feng-xian.md)
+    * [6.7，非功能性需求](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/67ff0c-fei-gong-neng-xing-xu-qiu.md)
+    * [6.8，工作流程](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/68ff0c-gong-zuo-liu-cheng.md)
   * [7，交易系统（OTS）](7ff0c-jiao-yi-xi-tong-ff08-ots.md)
   * 8，运维系统
 * [五，客户端](wu-ff0c-ke-hu-duan-ding-yi.md)
@@ -113,9 +113,9 @@
       * [2.3.8，交互原则](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/230ff0c-gui-fan-ding-yi/238ff0c-jiao-hu-yuan-ze.md)
     * [2.4，用户故事](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li.md)
       * [2.4.1，用户角色定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/241ff0c-yong-hu-jiao-se-ding-yi.md)
-      * [2.4.2，用户任务定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/242ff0c-yong-hu-ren-wu-ding-yi.md)
       * [2.4.3，用户荣誉库](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/243ff0c-yong-hu-rong-yu-ku.md)
-      * [2.4.4，用户故事路径](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/253ff0c-yong-hu-gu-shi-lu-jing.md)
+      * [2.4.4，用户任务定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/253ff0c-yong-hu-gu-shi-lu-jing.md)
+      * [2.4.2，用户故事路径](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/242ff0c-yong-hu-ren-wu-ding-yi.md)
     * [2.5，流程逻辑](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/213ff0c-liu-cheng-luo-ji.md)
     * [2.6，主要功能设计](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng.md)
       * [2.6.1，K歌](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/261kge.md)
