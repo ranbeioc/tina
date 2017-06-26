@@ -74,18 +74,18 @@
         * [6.4.5.2，活动后台管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li/6452ff0c-huo-dong-hou-tai-guan-li.md)
       * [6.4.6，直播间管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/646ff0c-zhi-bo-jian-guan-li.md)
       * [6.4.7，广告管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li.md)
-        * 6.4.7.1，电视端广告
-        * 6.4.7.2，移动端广告
+        * [6.4.7.1，电视端广告](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li/6471ff0c-dian-shi-duan-guang-gao.md)
+        * [6.4.7.2，移动端广告](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li/6472ff0c-yi-dong-duan-guang-gao.md)
       * [6.4.8，虚拟物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li.md)
         * [6.4.8.1，礼物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6481ff0c-li-wu-guan-li.md)
         * [6.4.8.2，挂坠/头像框管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6482ff0c-gua-zhui-guan-li.md)
-        * [6.4.8.3，头像框管理（删除）](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6483ff0c-tou-xiang-kuang-guan-li.md)
+        * [6.4.8.3，头像框管理（合并到挂坠/头像框管理）](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6483ff0c-tou-xiang-kuang-guan-li.md)
         * [6.4.8.4，签到管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6484ff0c-qian-dao-guan-li.md)
       * [6.4.9，终端管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li.md)
-        * 6.4.9.1，版本管理
-        * 6.4.9.2，开关配置
-        * 6.4.9.3，系统消息推送
-        * 6.4.9.4，Widget
+        * [6.4.9.1，版本管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li/6491ff0c-ban-ben-guan-li.md)
+        * [6.4.9.2，开关配置](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li/6492ff0c-kai-guan-pei-zhi.md)
+        * [6.4.9.3，系统消息推送](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li/6493ff0c-xi-tong-xiao-xi-tui-song.md)
+        * [6.4.9.4，Widget](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li/6494widget.md)
       * [6.4.10，操作日志](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6410ff0c-cao-zuo-ri-zhi.md)
       * [6.4.11，检索与报表](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6411ff0c-jian-suo-yu-bao-biao.md)
     * [6.5，信息结构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/65ff0c-xin-xi-jie-gou.md)
@@ -119,11 +119,11 @@
     * [2.5，流程逻辑](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/213ff0c-liu-cheng-luo-ji.md)
     * [2.6，主要功能设计](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng.md)
       * [2.6.1，K歌](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/261kge.md)
-      * 2.6.2，直播
-      * 2.6.3，活动
-      * 2.6.4，榜单
-      * 2.6.5，IM
-      * 2.6.6，道具
+      * [2.6.2，直播](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/262ff0c-zhi-bo.md)
+      * [2.6.3，活动](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/263ff0c-huo-dong.md)
+      * [2.6.4，榜单](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/264ff0c-bang-dan.md)
+      * [2.6.5，IM](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/265im.md)
+      * [2.6.6，道具](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/266ff0c-dao-ju.md)
       * 2.6.7，辅助功能
     * [2.7，非功能性需求](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/217ff0c-fei-gong-neng-xing-xu-qiu.md)
     * [2.8，信息结构](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/215ff0c-xin-xi-jie-gou.md)
