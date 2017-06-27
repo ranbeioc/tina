@@ -90,8 +90,8 @@
       * [6.4.10，操作日志](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6410ff0c-cao-zuo-ri-zhi.md)
       * [6.4.11，检索与报表](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6411ff0c-jian-suo-yu-bao-biao.md)
     * [6.5，信息结构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/65ff0c-xin-xi-jie-gou.md)
-    * 6.6，系统依赖与风险
-    * 6.7，非功能性需求
+    * [6.6，系统依赖与风险](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/66ff0c-xi-tong-yi-lai-yu-feng-xian.md)
+    * [6.7，非功能性需求](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/67ff0c-fei-gong-neng-xing-xu-qiu.md)
     * [6.8，工作流程](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/68ff0c-gong-zuo-liu-cheng.md)
   * [7，交易系统（OTS）](7ff0c-jiao-yi-xi-tong-ff08-ots.md)
   * 8，运维系统
