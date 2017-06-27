@@ -75,8 +75,6 @@
         * [6.4.5.2，活动后台管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/645ff0c-huo-dong-guan-li/6452ff0c-huo-dong-hou-tai-guan-li.md)
       * [6.4.6，直播间管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/646ff0c-zhi-bo-jian-guan-li.md)
       * [6.4.7，广告管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li.md)
-        * [6.4.7.1，电视端广告](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li/6471ff0c-dian-shi-duan-guang-gao.md)
-        * [6.4.7.2，移动端广告](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/647ff0c-guang-gao-guan-li/6472ff0c-yi-dong-duan-guang-gao.md)
       * [6.4.8，虚拟物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li.md)
         * [6.4.8.1，礼物管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6481ff0c-li-wu-guan-li.md)
         * [6.4.8.2，挂坠/头像框管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6482ff0c-gua-zhui-guan-li.md)
