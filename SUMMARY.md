@@ -86,6 +86,7 @@
         * [6.4.9.3，系统消息推送](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li/6493ff0c-xi-tong-xiao-xi-tui-song.md)
         * [6.4.9.4，Widget](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/649ff0c-zhong-duan-guan-li/6494widget.md)
         * 6.4.9.5，TV首页配置
+        * 6.4.9.6，设备信息
       * [6.4.10，操作日志](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6410ff0c-cao-zuo-ri-zhi.md)
       * [6.4.11，检索与报表](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6411ff0c-jian-suo-yu-bao-biao.md)
     * [6.5，信息结构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/65ff0c-xin-xi-jie-gou.md)
