@@ -2,8 +2,6 @@
 
 知识库请参考：[https://www.ibm.com/developerworks/cn/rational/1312\_wanggb\_arch/index.html](https://www.ibm.com/developerworks/cn/rational/1312_wanggb_arch/index.html)
 
-![](http://www.processon.com/chart_image/5953b9a9e4b0ad619ac6d24b.png)
-
 需要考虑的关键要点以业务系统划分简述如下：
 
 ```
