@@ -25,4 +25,18 @@
 | 前置任务ID | Progression |  | P1 |
 
 
+| 触发方式 |  |  |  |
+| :--- | :--- | :--- | :--- |
+| 指定位置| designated spot | 任务面板 | P1 |
+| 提示面板 |Prompt panel |  | P1 |
+| 自动接取| Automatic access | 满足条件自动接取 | P1 |
+| 任务类型 | 日常／等级／特殊 |  | P1 |
+| 任务区域 | 中国／海外／日本 | 支持扩展到国家 | P1 |
+| 操作序列 | sequence | 可变量 | P1 |
+| 数量限制 | Quantity restriction | 可变量 | P1 |
+| 指定条件 |  | 道具／活动 | P2 |
+| 前置任务ID | Progression |  | P1 |
+
+
+
 
