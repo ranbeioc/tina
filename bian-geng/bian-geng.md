@@ -2,6 +2,8 @@
 
 请记录每个修改版本对应的变更内容
 
+详细变更提交记录请查看：https://github.com/ranbeioc/tina/commits/master
+
 ```
 变更编号：#1
 变更时间：2017-06-06 23:40:58
