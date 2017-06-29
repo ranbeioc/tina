@@ -17,7 +17,6 @@
 | 接取方式 | Connection mode | 详见触发方式 | P2 |
 | 是否VIP | Y/N |  | P1 |
 
-
 | 显示条件 |  |  |  |
 | :--- | :--- | :--- | :--- |
 | 开放时间 | time interval |  | P1 |
@@ -37,5 +36,13 @@
 | 提示面板 |Prompt panel |  | P1 |
 | 自动接取| Automatic access | 满足条件自动接取 | P1 |
 | 其他位置 |  | 广播 | P2 |
+
+| 触发方式 |  |  |  |
+| :--- | :--- | :--- | :--- |
+| 任务面板| designated spot |  | P1 |
+| 提示面板 |Prompt panel |  | P1 |
+| 自动接取| Automatic access | 满足条件自动接取 | P1 |
+| 其他位置 |  | 广播 | P2 |
+
 
 
