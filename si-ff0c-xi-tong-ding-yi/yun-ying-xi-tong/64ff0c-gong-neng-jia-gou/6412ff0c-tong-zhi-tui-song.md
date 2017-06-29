@@ -18,12 +18,10 @@
 | 邮件 | 低频总结类消息，例如：对账单、老用户召回、激活|text、Image、URL、H5、video | SMS| P1 |
 | 第三方 | 用于即时且重要的消息通知渠道 例如：微信公众号发布获奖信息 | text、Image、URL、H5、video|Third party | P1 |
 
-| **推送（Push）** | 使用示例与规格| 承接点 | 阶段 |
+| **推送（Push）** | 使用示例与规格| 关联业务 | 阶段 |
 | --- | :--- | :--- | :--- |
-| 主动推送|  |Push | P1 |
-| 被动推送|  |Mail | P1 |
-|        |  | SMS| P1 |
-|        |  |Third party | P1 |
+| 主动推送|  | Active| P1 |
+| 被动推送|  | Passive| P1 |
 
 
 
