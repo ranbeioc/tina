@@ -88,6 +88,7 @@
         * [6.4.8.2，挂坠/头像框管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6482ff0c-gua-zhui-guan-li.md)
         * [6.4.8.3，表情管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/biao-qing-guan-li.md)
         * [6.4.8.4，签到管理](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6484ff0c-qian-dao-guan-li.md)
+        * [6.4.8.5，进入群聊/恋歌房/直播间动效](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/648ff0c-xu-ni-wu-guan-li/6485ff0c-jin-ru-qun-804a-lian-ge-623f-zhi-bo-jian-dong-xiao.md)
       * [6.4.11，检索与报表](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6411ff0c-jian-suo-yu-bao-biao.md)
       * [6.4.12，通知推送](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/64ff0c-gong-neng-jia-gou/6412ff0c-tong-zhi-tui-song.md)
     * [6.5，信息结构](si-ff0c-xi-tong-ding-yi/yun-ying-xi-tong/65ff0c-xin-xi-jie-gou.md)
