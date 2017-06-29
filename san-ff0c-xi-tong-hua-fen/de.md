@@ -2,9 +2,17 @@
 
 知识库请参考：[https://www.ibm.com/developerworks/cn/rational/r-4p1-view/index.html](https://www.ibm.com/developerworks/cn/rational/r-4p1-view/index.html)
 
+
+
+预览图如下：（因网络需要加载时间较长）
+详情请访问 ProcessOn 小组参与协作（加入协作小组请参见【协作】章节描述）
+![](https://www.processon.com/chart_image/5950ac49e4b0de9c566d7768.png)
+
+
+
 知识库介绍：
 
-> UML模型图及其功能 
+> UML模型图及其功能
 >
 > 1、结构类UML模型图－描述系统应用的静态结构
 >
