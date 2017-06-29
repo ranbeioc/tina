@@ -116,9 +116,9 @@
     * [2.4，用户故事](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li.md)
       * [2.4.1，用户角色定义](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/241ff0c-yong-hu-jiao-se-ding-yi.md)
       * [2.4.2，用户任务配置](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/242ff0c-yong-hu-ren-wu-ding-yi.md)
-      * [2.4.3，用户荣誉库](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/243ff0c-yong-hu-rong-yu-ku.md)
       * 2.4.3，任务路径
-      * [2.4.4，用户故事](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/253ff0c-yong-hu-gu-shi-lu-jing.md)
+      * [2.4.5，用户荣誉库](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/243ff0c-yong-hu-rong-yu-ku.md)
+      * [2.4.6，用户故事](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/212ff0c-chan-pin-yong-li/253ff0c-yong-hu-gu-shi-lu-jing.md)
     * [2.5，流程逻辑](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/213ff0c-liu-cheng-luo-ji.md)
     * [2.6，主要功能设计](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng.md)
       * [2.6.1，K歌](wu-ff0c-ke-hu-duan-ding-yi/52ff0c-yong-hu-ke-hu-duan/21ff0c-shou-ji-duan/210ff0c-bian-geng/261kge.md)
