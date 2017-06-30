@@ -11,10 +11,8 @@
 | 指引文本 | text |  | P1 |
 | 控件样式 | control |  | P1 |
 | 动效样式 | style |  | P1 |
-| 权重系数 | coefficient |  | P1 |
-| 任务描述 | Description |  | P1 |
-| 任务类型 | 日常／等级／特殊／赏金 |  | P1 |
-|  |  |  |  |
+| 显示条件 | condition | 详见条件库 | P1 |
+| 指引描述 | describe  | 备注内部观看 | P1 |
 
 
 
