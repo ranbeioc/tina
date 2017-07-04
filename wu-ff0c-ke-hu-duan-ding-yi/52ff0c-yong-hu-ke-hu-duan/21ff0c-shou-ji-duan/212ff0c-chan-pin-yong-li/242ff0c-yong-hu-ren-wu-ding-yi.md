@@ -10,6 +10,7 @@
 | 开放时间 | time interval |  | P1 |
 | 结束时间 | End time |  | P1 |
 | 等级限制 | Level Limits |  | P1 |
+| 操作限制 ||  | P1 |
 | 权重系数 | coefficient |  | P1 |
 | 任务描述 | Description |  | P1 |
 | 任务类型 | 日常／等级／特殊／赏金 |  | P1 |
