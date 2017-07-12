@@ -2,7 +2,7 @@
 
 请记录每个修改版本对应的变更内容
 
-详细变更提交记录请查看：https://github.com/ranbeioc/tina/commits/master
+详细变更提交记录请查看：[https://github.com/ranbeioc/tina/commits/master](https://github.com/ranbeioc/tina/commits/master)
 
 ```
 变更编号：#1
@@ -65,5 +65,13 @@
 1，完成对运营系统的11个主要模块拆分。
 ```
 
+```
+变更编号：#8
+变更时间：2017-07-10 17:20:45
+提出人员：Skyfire
+变更内容：
+1，完成对媒资库系统的架构设计。
+
+```
 
 
