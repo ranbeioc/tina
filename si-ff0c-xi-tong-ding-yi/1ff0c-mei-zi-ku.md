@@ -2,6 +2,10 @@
 
 元数据即包含歌曲音频和MV视频，歌词，角色分类标签等底层数据的入库，上下架，版权和缓存操作等管理。
 
+系统结构图访问以下地址预览：加入【协作】参与编辑
+
+[https://www.processon.com/view/link/596364f4e4b0c2773f86ec7e](https://www.processon.com/view/link/596364f4e4b0c2773f86ec7e)
+
 项目背景
 
 ```
